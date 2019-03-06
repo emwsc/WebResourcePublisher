@@ -2,7 +2,7 @@ This is plugin that allows you to automatically publish web resources to Dynamic
 How it works:
 
 - Build project WebResourcePublisher in Visual Studio
-- Import publish method into your build pipeline script
+- Import publish method from dynamics.js into your build pipeline script
 - Call publish like:
   ```
   const publish = require("./dynamics").publish;
