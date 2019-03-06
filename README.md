@@ -8,7 +8,7 @@ How it works:
   const publish = require("./dynamics").publish;
   publish(process.cwd());
   ```
-  -In project root folder (near package.json) create publisher.json
+- In project root folder (near package.json) create publisher.json
 
 ```
 {
